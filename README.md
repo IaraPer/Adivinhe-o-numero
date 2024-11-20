@@ -1,0 +1,1 @@
+Instrução: insira um número aleatório no espaço vazio e clique no botão adivinhar.Se não conseguir adivinhar de primeira você pode tentar adivinhar o número por tentativa e erro.Ao conseguir adivinhar o número,caso queira repetir o processo,é só recarregar a página.
